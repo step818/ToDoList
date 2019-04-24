@@ -6,6 +6,11 @@ namespace ToDoList.Models
     {
         //Properties
         private string _description;
+        public string Description
+        {
+            get { return _description;  }
+            set { _description = value; }
+        }
 
         private static List<Item> _instances = new List<Item> {};
 
@@ -17,17 +22,17 @@ namespace ToDoList.Models
             _instances.Add(this);
         }
 
-        //Getter
-        public string GetDescription()
-        {
-            return _description;
-        }
+        // //Getter
+        // public string GetDescription()
+        // {
+        //     return _description;
+        // }
 
-        //Setter
-        public void SetDescription(string newDescription)
-        {
-            _description = newDescription;
-        }
+        // //Setter
+        // public void SetDescription(string newDescription)
+        // {
+        //     _description = newDescription;
+        // }
 
         public static List<Item> GetAll()
         {

@@ -25,7 +25,7 @@ namespace ToDoList.Tests
         {
             string description = "Walk the dog.";
             Item newItem = new Item(description);
-            string result = newItem.GetDescription();
+            string result = newItem.Description;
             Assert.AreEqual(description, result);
 
         }
@@ -37,8 +37,8 @@ namespace ToDoList.Tests
             Item newItem = new Item(description);
             
             string updatedDescription = "Do the dishes";
-            newItem.SetDescription(updatedDescription);
-            string result = newItem.GetDescription();
+            newItem.Description = updatedDescription;
+            string result = newItem.Description;
 
             Assert.AreEqual(updatedDescription, result);        
         }
@@ -59,7 +59,7 @@ namespace ToDoList.Tests
 
             foreach (Item thisItem in result)
             {
-                Console.WriteLine("Output from GetAll test: " + thisItem.GetDescription());
+                Console.WriteLine("Output from GetAll test: " + thisItem.Description);
             }
 
             CollectionAssert.AreEqual(newList, result);
