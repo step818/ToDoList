@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/Guest/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Dylan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/ToDoList.Solution/ToDoList/ToDoList.csproj",
+      "projectUniqueName": "E:\\Development\\School\\csharp\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "/Users/Guest/ToDoList.Solution/ToDoList/ToDoList.csproj",
-      "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/ToDoList.Solution/ToDoList/obj/",
+      "projectPath": "E:\\Development\\School\\csharp\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+      "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
+      "outputPath": "E:\\Development\\School\\csharp\\ToDoList.Solution\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Guest/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

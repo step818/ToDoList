@@ -64,8 +64,5 @@ namespace ToDoList.Tests
 
             CollectionAssert.AreEqual(newList, result);
         }
-
-
-
     }
 }

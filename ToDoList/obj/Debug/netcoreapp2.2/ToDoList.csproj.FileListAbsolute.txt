@@ -7,3 +7,12 @@
 /Users/Guest/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
 /Users/Guest/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
 /Users/Guest/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.deps.json
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.dll
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.pdb
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csprojAssemblyReference.cache
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csproj.CoreCompileInputs.cache
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.AssemblyInfoInputs.cache
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.AssemblyInfo.cs
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.dll
+e:\Development\School\csharp\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.pdb
